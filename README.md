@@ -30,18 +30,18 @@ It has everything you’d expect in a small business system:
 
 🛒 Products → the product catalog
 
+
+## 🗂️ Database Schema
+
+* The following ERD (Entity Relationship Diagram) shows the structure of the ClassicModels database and how its tables are related:
+![](https://github.com/Harshad820/Product_Sales_and_Orders/blob/main/schema.png)
+
 ## 🛠️ Tools & Technologies Used
 
 - MySQL – Database system for storing and querying data
 - MySQL Workbench – SQL editor and visualization tool for writing and testing queries
 - Git & GitHub – Version control and project hosting
 - ERD (Entity Relationship Diagram) – For understanding relationships between tables
-
-
-## 🗂️ Database Schema
-
-* The following ERD (Entity Relationship Diagram) shows the structure of the ClassicModels database and how its tables are related:
-
 
 ## 📊 SQL Queries & Visual Outputs
 
