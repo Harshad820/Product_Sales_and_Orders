@@ -9,13 +9,13 @@ It is designed as a hands-on SQL analytics project to practice querying, joining
 
 ## 🎯 Project Goals
 
-Explore the data – Understand the structure of the ClassicModels database and get familiar with how customers, orders, products, and employees are connected.
+- Explore the data – Understand the structure of the ClassicModels database and get familiar with how customers, orders, products, and employees are connected.
 
-Practice SQL skills – Use joins, subqueries, aggregations, and window functions to answer real-world style business questions.
+- Practice SQL skills – Use joins, subqueries, aggregations, and window functions to answer real-world style business questions.
 
-Generate insights – Analyze sales trends, customer behavior, and product performance to uncover useful insights from the data.
+- Generate insights – Analyze sales trends, customer behavior, and product performance to uncover useful insights from the data.
 
-Apply to real scenarios – Treat the ClassicModels database like a real business case and show how SQL can support decision-making.
+- Apply to real scenarios – Treat the ClassicModels database like a real business case and show how SQL can support decision-making.
 
 ## Database Info
 
