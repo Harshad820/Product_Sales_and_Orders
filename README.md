@@ -10,11 +10,8 @@ It is designed as a hands-on SQL analytics project to practice querying, joining
 ## 🎯 Project Goals
 
 - Explore the data – Understand the structure of the ClassicModels database and get familiar with how customers, orders, products, and employees are connected.
-
 - Practice SQL skills – Use joins, subqueries, aggregations, and window functions to answer real-world style business questions.
-
 - Generate insights – Analyze sales trends, customer behavior, and product performance to uncover useful insights from the data.
-
 - Apply to real scenarios – Treat the ClassicModels database like a real business case and show how SQL can support decision-making.
 
 ## 🗄️Database Info
@@ -23,25 +20,17 @@ The ClassicModels database is a sample dataset often used for practice.
 It has everything you’d expect in a small business system:
 
 🧑‍🤝‍🧑 Customers → details of all customers
-
 📦 Orders & OrderDetails → sales transactions
-
 💰 Payments → payment records
-
 🏢 Offices → locations of offices
-
 👩‍💼 Employees → sales reps & managers
-
 🛒 Products → the product catalog
 
 ## 🛠️ Tools & Technologies Used
 
 - MySQL – Database system for storing and querying data
-
 - MySQL Workbench – SQL editor and visualization tool for writing and testing queries
-
 - Git & GitHub – Version control and project hosting
-
 - ERD (Entity Relationship Diagram) – For understanding relationships between tables
 
 
