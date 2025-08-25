@@ -20,15 +20,10 @@ The ClassicModels database is a sample dataset often used for practice.
 It has everything you’d expect in a small business system:
 
 🧑‍🤝‍🧑 Customers → details of all customers
-
 📦 Orders & OrderDetails → sales transactions
-
 💰 Payments → payment records
-
 🏢 Offices → locations of offices
-
 👩‍💼 Employees → sales reps & managers
-
 🛒 Products → the product catalog
 
 ## 🛠️ Tools & Technologies Used
