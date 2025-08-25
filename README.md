@@ -45,6 +45,10 @@ It has everything you’d expect in a small business system:
 - ERD (Entity Relationship Diagram) – For understanding relationships between tables
 
 
-## 🗄️ Database Schema
+## 🗂️ Database Schema
 
 * The following ERD (Entity Relationship Diagram) shows the structure of the ClassicModels database and how its tables are related:
+
+
+## 📊 SQL Queries & Visual Outputs
+
