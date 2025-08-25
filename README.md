@@ -17,7 +17,7 @@ It is designed as a hands-on SQL analytics project to practice querying, joining
 
 - Apply to real scenarios – Treat the ClassicModels database like a real business case and show how SQL can support decision-making.
 
-## Database Info
+## 🗄️Database Info
 
 The ClassicModels database is a sample dataset often used for practice.
 It has everything you’d expect in a small business system:
@@ -33,3 +33,18 @@ It has everything you’d expect in a small business system:
 👩‍💼 Employees → sales reps & managers
 
 🛒 Products → the product catalog
+
+## 🛠️ Tools & Technologies Used
+
+- MySQL – Database system for storing and querying data
+
+- MySQL Workbench – SQL editor and visualization tool for writing and testing queries
+
+- Git & GitHub – Version control and project hosting
+
+- ERD (Entity Relationship Diagram) – For understanding relationships between tables
+
+
+## 🗄️ Database Schema
+
+* The following ERD (Entity Relationship Diagram) shows the structure of the ClassicModels database and how its tables are related:
