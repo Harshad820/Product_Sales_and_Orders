@@ -1,13 +1,13 @@
 # Product_Sales_and_Orders
 📊 SQL analytics project using the ClassicModels database — uncover insights on sales, products, customers, and revenue with advanced queries.
 
-##📌 About the Project
+## 📌 About the Project
 
 This project showcases SQL data analytics using the ClassicModels sample database.
 It includes business-focused queries for sales, products, customers, employees, and offices.
 It is designed as a hands-on SQL analytics project to practice querying, joining tables, and uncovering insights from real-world style business data.
 
-##🎯 Project Goals
+## 🎯 Project Goals
 
 Explore the data – Understand the structure of the ClassicModels database and get familiar with how customers, orders, products, and employees are connected.
 
@@ -17,7 +17,7 @@ Generate insights – Analyze sales trends, customer behavior, and product perfo
 
 Apply to real scenarios – Treat the ClassicModels database like a real business case and show how SQL can support decision-making.
 
-##Database Info
+## Database Info
 
 The ClassicModels database is a sample dataset often used for practice.
 It has everything you’d expect in a small business system:
